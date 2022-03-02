@@ -71,7 +71,7 @@ If you want to do a similar project I strongly recommend that you have a test bo
 Finally, if you want to do a similar project, I strongly recommend that you have a test bot, all the data you see is test data and is deprecated.
 
 ### SETUP ...for future developemnts
-GMAIL: fitbotweb@gmail.com
+GMAIL: fitbotweb@gmail.com <br />
 https://github.com/eternnoir/pyTelegramBotAPI <br />
 https://likegeeks.com/es/tutorial-de-python-sqlite3/ <br />
 https://web.telegram.org/z/ <br />
