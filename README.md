@@ -72,12 +72,12 @@ Finally, if you want to do a similar project, I strongly recommend that you have
 
 ### SETUP ...for future developemnts
 GMAIL: fitbotweb@gmail.com
-https://github.com/eternnoir/pyTelegramBotAPI
-https://likegeeks.com/es/tutorial-de-python-sqlite3/
-https://web.telegram.org/z/
-https://core.telegram.org/bots/api#answershippingquery
-https://core.telegram.org/bots/payments#step-by-step-process
-https://stripe.com/docs/api/invoices/create?lang=python
-https://dashboard.stripe.com/test/payments
-https://towardsdatascience.com/creating-a-telegram-chatbot-quiz-with-python-711a43c0c424
+https://github.com/eternnoir/pyTelegramBotAPI <br />
+https://likegeeks.com/es/tutorial-de-python-sqlite3/ <br />
+https://web.telegram.org/z/ <br />
+https://core.telegram.org/bots/api#answershippingquery <br />
+https://core.telegram.org/bots/payments#step-by-step-process <br />
+https://stripe.com/docs/api/invoices/create?lang=python <br />
+https://dashboard.stripe.com/test/payments <br />
+https://towardsdatascience.com/creating-a-telegram-chatbot-quiz-with-python-711a43c0c424 <br />
 FAKE CARD: 4242 4242 4242 4242
