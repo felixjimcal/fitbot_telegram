@@ -69,3 +69,15 @@ I know, there are a lot of images, I stop here, there's a menu for a logged user
 ### Finally,
 If you want to do a similar project I strongly recommend that you have a test bot. <br />
 Finally, if you want to do a similar project, I strongly recommend that you have a test bot, all the data you see is test data and is deprecated.
+
+### SETUP ...for future developemnts
+GMAIL: fitbotweb@gmail.com
+https://github.com/eternnoir/pyTelegramBotAPI
+https://likegeeks.com/es/tutorial-de-python-sqlite3/
+https://web.telegram.org/z/
+https://core.telegram.org/bots/api#answershippingquery
+https://core.telegram.org/bots/payments#step-by-step-process
+https://stripe.com/docs/api/invoices/create?lang=python
+https://dashboard.stripe.com/test/payments
+https://towardsdatascience.com/creating-a-telegram-chatbot-quiz-with-python-711a43c0c424
+FAKE CARD: 4242 4242 4242 4242
